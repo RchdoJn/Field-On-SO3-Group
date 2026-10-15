@@ -1,5 +1,5 @@
 % test_mix.m
-% Solve and validate an N-direction field with the mixed energy.
+% Solve and validate an N-direction field with the mixed energy
 
 clear; close all; clc;
 
